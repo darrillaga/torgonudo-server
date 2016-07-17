@@ -12,6 +12,9 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "method-override": "^2.3.6"
+    "fcm-push": "file:local_modules/fcm-push",
+    "firebase": "^3.1.0",
+    "method-override": "^2.3.6",
+    "promise": "^7.1.1"
   }
 }

@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "fcm-push",
+      "/Users/damianarrillaga/Projects/torgonudo/torgonudo-server/torgonudo"
+    ]
+  ],
+  "_from": "fcm-push@latest",
+  "_id": "fcm-push@1.0.10",
+  "_inCache": false,
+  "_installable": true,
+  "_location": "/fcm-push",
+  "_nodeVersion": "5.4.0",
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "fcm-push",
+    "raw": "fcm-push",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_shasum": "4fbcbb197c80b67c89b6027ebc4dd6002b7dbc4e",
+  "_shrinkwrap": null,
+  "_spec": "fcm-push",
+  "_where": "/Users/damianarrillaga/Projects/torgonudo/torgonudo-server/torgonudo",
+  "author": {
+    "email": "nandar.rustam@gmail.com",
+    "name": "Rasmunandar Rustam"
+  },
+  "bugs": {
+    "url": "https://github.com/nandarustam/fcm-push/issues"
+  },
+  "dependencies": {
+    "retry": "^0.9.0"
+  },
+  "description": "A Node.JS simple interface to Firebase Cloud Messaging (FCM) for Android and iOS",
+  "devDependencies": {},
+  "directories": {},
+  "gitHead": "23fa542ba810623f624ec401e8c03db8a9bc06ce",
+  "homepage": "https://github.com/nandarustam/fcm-push#readme",
+  "keywords": [
+    "android",
+    "fcm",
+    "firebase",
+    "firebase cloud messaging",
+    "gcm",
+    "google",
+    "ios",
+    "notification",
+    "push",
+    "push notification"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "nandarustam",
+      "email": "nandar.rustam@gmail.com"
+    }
+  ],
+  "name": "fcm-push",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandarustam/fcm-push.git"
+  },
+  "scripts": {},
+  "version": "1.0.10"
+}

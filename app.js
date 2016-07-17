@@ -1,3 +1,4 @@
+"use strict"
 const
     express = require("express"),
     app = express(),
@@ -7,8 +8,8 @@ const
     path = require('path'),
     contentTypes = require('./utils/content-types'),
     sysInfo = require('./utils/sys-info'),
-    env = process.env;
-
+    env = process.env,
+    notifications = require('./controllers/notifications');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
